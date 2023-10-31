@@ -1,4 +1,4 @@
-- 👋 Hi! I'm Benson Wan, an undergraduate student at the University of California Riverside studying computer science with an enormous passion for programming and building software.
+- 👋 Hi! I'm Benson Wan, a newly grad from the University of California, Riverside with a degree in computer science and I have an enormous passion for building software.
 - :computer: I’m currently looking for internships/jobs in the software engineering field!
 - :handshake: I'm always looking to connect with those around me so feel free to reach out! My LinkedIn is: [Benson Wan](https://www.linkedin.com/in/benson-wan-b83998174)
 
